@@ -1,2 +1,12 @@
-Slides
-Data
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Data and Slides
+Data/
+Slides/
+
+# Python
+__pycache__/
+*.pyc
+.env
